@@ -16,11 +16,11 @@ The Titanic Survival Prediction project aims to explore and analyze the Titanic 
 # Support
 For any inquiries, feedback, or issues related to the Titanic Survival Prediction project, please reach out to the project maintainer:
 
-**Maintainer:** Pranav Prajapati
-**Email:** -
-**GitHub:** https://github.com/pranavvp16
+- **Maintainer:** Pranav Prajapati  
+- **Email:** -  
+- **GitHub:** https://github.com/pranavvp16  
 
 # Contact
-For general inquiries, you can contact us at:
-**Email:** [Sachin khote](sachinkhote451@gmail.com)
+For general inquiries, you can contact us at:  
+- **Email:** [Sachin khote](sachinkhote451@gmail.com)
 
