@@ -3,7 +3,7 @@
 - **Author:** [Sachin Khote](https://github.com/sachinkhote)
 - **Example:** Train an Titanic Survival Model
 - **Data Created:** 08/10/2023
-- **Last Modified:** 08/10/2023
+- **Last Modified:** 09/10/2023
 
 # Description
 
