@@ -1,6 +1,8 @@
-### Guide to contribute to this examples repository
+### Guide to contribute to this examples repository 
+ 
+Welcome to our machine learning examples repository created by the [tfugnashik](https://github.com/tfugnashik) community! Here, we collect a variety of machine learning examples and code samples. As a contributor, you have the freedom to choose any example from the checklist below. You are also encouraged to use the framework of your choice to demonstrate your skills and creativity.
+<br>
 
-This repository will store machine learning examples and code samples made by the tfug-nashik community you can pick any example for your choice in the below checklist.<br>
 You are free to use framework of your own choice
 - [x] Titanic dataset
 - [ ] Customer churn prediction
@@ -13,6 +15,15 @@ You are free to use framework of your own choice
 - [ ] CIFAR 10
 - [ ] Imagnet
 - [ ] Finetune BERT 
+- [ ] Credit card Fraud Detection
+- [ ] Employee Dataset
+- [ ] Diabetes Prediction Dataset
+- [ ] NBA Player Salaries
+- [ ] Smartphone Model Dataset
+- [ ] Airline Passengers Data
+- [ ] Supermarket Sales Prediction
 
 <br>
-Feel free to add any example of your choice if your codesample doesn't belong toany of the categories mentioned above.
+Feel Free to Add New Examples, If your code sample doesn't fit any of the categories mentioned above, you are welcome to introduce new topics. Just make sure your work focuses on machine learning and data analysis topics.
+
+Get started and showcase your expertise in the world of machine learning. We appreciate your valuable contributions to our community!
