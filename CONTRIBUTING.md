@@ -4,6 +4,7 @@ Welcome to our machine learning examples repository created by the [tfugnashik](
 <br>
 
 You are free to use framework of your own choice
+
 - [x] Titanic dataset
 - [ ] Customer churn prediction
 - [x] California Housing Dataset
