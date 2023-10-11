@@ -9,9 +9,9 @@ You are free to use framework of your own choice
 - [ ] Time series example
 - [ ] House rental prediction
 - [ ] Fashion MNIST
-- [ ]Handwriting MNIST
+- [ ] Handwriting MNIST
 - [ ] CIFAR 10
-- [ ]Imagnet
+- [ ] Imagnet
 - [ ] Finetune BERT 
 
 <br>
