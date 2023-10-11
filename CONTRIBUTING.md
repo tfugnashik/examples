@@ -2,6 +2,7 @@
 
 This repository will store machine learning examples and code samples made by the tfug-nashik community you can pick any example for your choice in the below checklist.<br>
 You are free to use framework of your own choice
+
 - [x] Titanic dataset
 - [ ] Customer churn prediction
 - [x] California Housing Dataset
