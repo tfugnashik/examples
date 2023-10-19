@@ -18,7 +18,7 @@ You are free to use framework of your own choice
 - [ ] Finetune BERT 
 - [ ] Credit card Fraud Detection
 - [ ] Employee Dataset
-- [ ] Diabetes Prediction Dataset
+- [x] Diabetes Prediction Dataset
 - [ ] NBA Player Salaries
 - [ ] Smartphone Model Dataset
 - [ ] Airline Passengers Data
