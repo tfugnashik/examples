@@ -11,7 +11,7 @@ This is a regression-based prediction problem set that allows us to predict the 
 
 # Overview
 
-In this project, a Machine Learning based method is used where we compare different regression algorithms, such as Linear Regression, Support Vector Regression, Decision Trees and Random Forest, given the profile of the student. We then compute error functions for the different models and compare their performance to select the best performing model.
+In this project, a Machine Learning based method is used where we compare different regression algorithms, such as Linear Regression, Support Vector Regression, Decision Trees and Random Forest, AdaboostRegressor, Lasso and Ridge given the profile of the student. We then compute error functions for the different models and compare their performance to select the best performing model.
 
 # Support
 
