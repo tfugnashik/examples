@@ -13,7 +13,7 @@ This dataset is designed for predicting diabetes based on various health paramet
 
 ## Dataset Information
 
-- **Source**: [Diabetes Prediction Dataset](https://github.com/sachinkhote/Public_Dataset/raw/main/Diabetes%20Prediction.csv)
+- **Source**: [Diabetes Prediction Dataset](https://github.com/sachinkhote/Public_Dataset/blob/main/Diabetes%20Prediction.csv)
 - **Format**: CSV
 - **Columns**:
   1. **Pregnancies**: Number of times pregnant
