@@ -3,7 +3,7 @@
 - **Author:** [Sachin Khote](https://github.com/sachinkhote)
 - **Example:** Diabetes Prediction
 - **Data Created:** 14/10/2023
-- **Last Modified:** 24/10/2023
+- **Last Modified:** 28/10/2023
 
 # Diabetes Prediction Dataset
 
