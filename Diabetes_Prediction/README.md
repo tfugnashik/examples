@@ -3,7 +3,7 @@
 - **Author:** [Sachin Khote](https://github.com/sachinkhote)
 - **Example:** Diabetes Prediction
 - **Data Created:** 14/10/2023
-- **Last Modified:** 15/10/2023
+- **Last Modified:** 28/10/2023
 
 # Diabetes Prediction Dataset
 
@@ -13,7 +13,7 @@ This dataset is designed for predicting diabetes based on various health paramet
 
 ## Dataset Information
 
-- **Source**: [Diabetes Prediction Dataset](https://github.com/sachinkhote/Public_Dataset/raw/main/Diabetes%20Prediction.csv)
+- **Source**: [Diabetes Prediction Dataset](https://github.com/sachinkhote/Public_Dataset/blob/main/Diabetes%20Prediction.csv)
 - **Format**: CSV
 - **Columns**:
   1. **Pregnancies**: Number of times pregnant
@@ -64,3 +64,4 @@ For general inquiries, you can contact us at:
 
 - **Email:** [Sachin khote](sachinkhote451@gmail.com)
 - **Linkedin:** [profile](https://www.linkedin.com/in/sachin-khote-195570277/)
+
